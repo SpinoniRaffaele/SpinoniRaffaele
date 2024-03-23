@@ -3,7 +3,7 @@
 I'm a fullstack developer based in Europe
 
 - 🔭 I’m currently working on Web technologies
-- 🌱 I’m currently learning Spring and Mongo
+- 🌱 I’m currently learning Spring, Mongo and web3 technologies
 - 📫 How to reach me: raffaele.spinoni@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpinoniRaffaele)](https://github.com/anuraghazra/github-readme-stats)
